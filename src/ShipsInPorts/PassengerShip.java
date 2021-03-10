@@ -1,6 +1,6 @@
 // File: PassengerShip.java
 // Date: 24 February 2019
-// Author: 
+// Author: Tom Batchlear
 // Purpose: The PassengerShip class contains all the information specific to a 
 // passenger ship.  This includes the number of passengers, number of rooms, 
 // and number of occupied rooms.  Extends the Ship class.

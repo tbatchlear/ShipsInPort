@@ -1,6 +1,6 @@
 // File: Seaport.java
 // Date: 24 February 2019
-// Author: 
+// Author: Tom Batchlear
 // Purpose: The Seaport class contains all the various occupants of the seaport.
 // This class holds the dock, ships, personnel, and jobs.  Additionally, the 
 // seaport class maintains a que of ships waiting for a dock as wel as the 

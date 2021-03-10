@@ -1,6 +1,6 @@
 // File: Thing.java
 // Date: 24 February 2019
-// Author: 
+// Author: Tom Batchlear
 // Purpose: Thing handles the base information for all items within the seaport
 //  Every item has a name, and index, and a parent.  Additionally, Thing
 // implements the comparable interface.

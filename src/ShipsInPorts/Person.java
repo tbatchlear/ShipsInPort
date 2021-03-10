@@ -1,6 +1,6 @@
 // File: Person.java
 // Date: 24 February 2019
-// Author: 
+// Author: Tom Batchlear
 // Purpose: Contains the skills of the person at each port.  Extends the Thing 
 // class
 package ShipsInPorts;

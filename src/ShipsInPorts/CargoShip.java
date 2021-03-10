@@ -1,6 +1,6 @@
 // File: CargoShip.java
 // Date: 21 January 2019
-// Author:
+// Author: Tom Batchlear
 // Purpose: The CargoShip class contains all the information specific to a 
 // cargo ship.  This includes the volume, value, and weight of the cargo.
 // Extends the Ship class.

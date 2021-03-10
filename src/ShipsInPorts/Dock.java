@@ -1,6 +1,6 @@
 // File: Dock.java
 // Date: 24 February 2019
-// Author:
+// Author: Tom Batchlear
 // Purpose: The Dock class holds all information abouut the dock to include 
 // which ship is in dock.  Extends the Thing class
 package ShipsInPorts;

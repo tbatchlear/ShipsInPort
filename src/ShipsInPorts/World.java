@@ -1,6 +1,6 @@
 // File: World.java
 // Date: 24 February 2019
-// Author: 
+// Author: Tom Batchlear
 // Purpose: This is where the magic happens.  The World class is called by the 
 // GUI in the SeaPortProgram to open a selected file, scan the file, and 
 // distribute elements of the file to the various child classes in order to 

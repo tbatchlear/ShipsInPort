@@ -1,6 +1,6 @@
 // File: Ship.java
 // Date: 24 February 2019
-// Author: 
+// Author: Tom Batchlear
 // Purpose: The Ship class contains all the base information that every ship has.
 // This includes draft, length, width and weight.  Extends the Thing class.
 package ShipsInPorts;

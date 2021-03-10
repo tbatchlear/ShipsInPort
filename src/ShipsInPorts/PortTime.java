@@ -1,6 +1,6 @@
 // File: PortTime.java
 // Date: 24 February 2019
-// Author: 
+// Author: Tom Batchlear
 // Purpose: Contains the portTime of each ship at each port.
 package ShipsInPorts;
 
